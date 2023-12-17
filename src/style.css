@@ -1,0 +1,13 @@
+button{
+    margin: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+}
+img{
+   
+    width: 100vw;
+    height: 700px;
+}
